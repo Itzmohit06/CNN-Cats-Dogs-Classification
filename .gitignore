@@ -13,10 +13,6 @@ __pycache__/
 venv/
 env/
 
-# Trained models
-*.pth
-*.pt
-
 # Archives
 *.zip
 

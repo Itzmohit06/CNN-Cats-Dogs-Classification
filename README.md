@@ -59,7 +59,5 @@ Cats-Dogs-Classification/
 ├── data/              # Dataset (not included in the repository)
 ├── models/            # Trained model
 ├── notebooks/         # Jupyter/Colab notebooks
-├── results/           # Evaluation results and plots
-├── src/               # Source code
 ├── .gitignore
 └── README.md

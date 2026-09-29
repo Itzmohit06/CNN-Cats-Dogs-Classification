@@ -46,9 +46,9 @@ After training, the model was evaluated on the **2,500-image test set**.
 
 | Metric | Score |
 |---|---:|
-| Accuracy | 84.68% |
-| Precision | 83.46% |
-| Recall | 86.22% |
+| Accuracy | 89.08% |
+| Precision | 86.50% |
+| Recall | 92.43% |
 
 The model correctly classified **2,117 out of 2,500 test images**.
 
